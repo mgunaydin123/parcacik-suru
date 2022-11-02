@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Parcacik Sürü Optimizasyonu:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Parcacik_Sürü_Optimizasyonu_jar</output-path>
+    <root id="archive" name="Parcacik Sürü Optimizasyonu.jar">
+      <element id="module-output" name="Parcacik Sürü Optimizasyonu" />
+    </root>
+  </artifact>
+</component>
